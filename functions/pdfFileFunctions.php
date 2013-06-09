@@ -1,4 +1,6 @@
 <?php
+//Bryan Rose
+//rosebj@clarkson.edu
 
 $Instancepath = "/var/www/pdf/tmp/";
 $Masterpath = "/var/www/pdf/tmp/";

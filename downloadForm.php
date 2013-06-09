@@ -1,4 +1,6 @@
 <?php
+//Bryan Rose
+//rosebj@clarkson.edu
 session_start();
 if(!$_SESSION['loggedin']) {
 	// User isn't Logged In, make them

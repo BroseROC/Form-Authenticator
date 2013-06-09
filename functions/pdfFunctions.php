@@ -1,4 +1,6 @@
 <?php
+//Bryan Rose
+//rosebj@clarkson.edu
 
 
 //Returns true if all required fields have a value

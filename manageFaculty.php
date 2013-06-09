@@ -1,5 +1,6 @@
 <?php
 // Trevor Mullins
+// Bryan Rose
 // CS350
 // manageFaculty.php
 // Manage Faculty

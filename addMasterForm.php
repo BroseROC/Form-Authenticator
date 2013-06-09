@@ -1,4 +1,6 @@
 <?php
+//Bryan Rose
+//rosebj@clarkson.edu
 session_start();
 if(!$_SESSION['loggedin'] && $_SESSION['clearance'] != 47) {
 	// User isn't Logged In, make them

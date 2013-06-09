@@ -1,5 +1,6 @@
 <?php
-//require('/home/rosebj/pdf/consts.php');
+//Bryan Rose
+//rosebj@clarkson.edu
 
 $masterForms = " form_list ";
 $activeForms = " active_forms ";
